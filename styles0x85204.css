@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background: rgb(0, 70, 255) !important;
+    background-image: url("./images/benevolentTitle.png") !important;
     font-family: Verdana, Geneva, Tahoma, sans-serif !important;
     font-weight: 700 !important;
     padding: 0 5vw 1vw 5vw;

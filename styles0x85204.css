@@ -4,6 +4,7 @@ html {
 
 body {
     background-image: url("./images/benevolentTitle.png") !important;
+    background-repeat: repeat-x;
     font-family: Verdana, Geneva, Tahoma, sans-serif !important;
     font-weight: 700 !important;
     padding: 0 5vw 1vw 5vw;

@@ -66,29 +66,30 @@ nav a {
     letter-spacing: .05em;
     cursor: pointer;
 }
+
 .topnav {
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(51, 102, 153);
 }
 
 .topnav a {
-        float: left;
-        color: #f2f2f2;
-        text-align: center;
-        padding: 14px 16px;
-        text-decoration: none;
-        font-size: 17px;
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
 }
 
-        .topnav a:hover {
-            background-color: #ddd;
-            color: black;
-        }
+.topnav a:hover {
+   background-color: #ddd;
+   color: black;
+}
 
-        .topnav a.active {
-            background-color: #4CAF50;
-            color: white;
-        }
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
 nav a:hover {
     color: rgb(245, 245, 245);
     text-shadow: 0 0 15px rgb(245, 245, 245);
